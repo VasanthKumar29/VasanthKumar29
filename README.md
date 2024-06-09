@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasanth Kumar B M</h1>
+<h1 align="center">Hi 👋, I'm Vasanth </h1>
 <h3 align="center">A passionate Engineering graduate</h3>
 
 - 🌱 I’m currently learning **java,sql,ioT,reactjs**
